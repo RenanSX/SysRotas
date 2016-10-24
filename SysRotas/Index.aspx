@@ -25,18 +25,19 @@
 </head>
 <body>
         <div id="mapid"></div>
+        <div><button id="btnPontos" type="button" class="btn btn-primary" onclick="addMarker()">Criar Pontos</button></div>
 
     <script>
-        var mymap = L.map('mapid').setView([-19.9321635, -43.9380004], 15);
+        var mymap = L.map('mapid', { doubleClickZoom : false}).setView([-19.9321635, -43.9380004], 15);
 
         var grayscale = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
             maxZoom: 18
         }).addTo(mymap);
+        newMarkerGroup = new L.LayerGroup();
+        mymap.on('click', addMarker);
 
         var dir = MQ.routing.directions();
-        
-        var marker = L.marker([-19.932507, -43.939140]).addTo(mymap);
 
         dir.optimizedRoute({
             locations: [
@@ -56,6 +57,11 @@
             directions: dir,
             fitBounds: true
         }));
+
+        function addMarker(e) {
+            var newMarker = new L.marker(e.latlng).addTo(mymap);
+            alert(e.latlng);
+        }
 
     </script>
 </body>

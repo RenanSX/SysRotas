@@ -31,3 +31,36 @@ c:\users\renan.xavier\documents\visual studio 2015\Projects\SysRotas\SysRotas\bi
 c:\users\renan.xavier\documents\visual studio 2015\Projects\SysRotas\SysRotas\obj\Debug\SysRotas.csprojResolveAssemblyReference.cache
 c:\users\renan.xavier\documents\visual studio 2015\Projects\SysRotas\SysRotas\obj\Debug\SysRotas.dll
 c:\users\renan.xavier\documents\visual studio 2015\Projects\SysRotas\SysRotas\obj\Debug\SysRotas.pdb
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\ApplicationInsights.config
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\csc.exe
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\vbc.exe
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\VBCSCompiler.exe
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\SysRotas.dll.config
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\SysRotas.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\SysRotas.pdb
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.Web.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.ApplicationInsights.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.Web.xml
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.ApplicationInsights.xml
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\obj\Debug\SysRotas.csprojResolveAssemblyReference.cache
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\obj\Debug\SysRotas.dll
+C:\Users\renan.xavier\Source\Repos\SysRotas\SysRotas\obj\Debug\SysRotas.pdb
